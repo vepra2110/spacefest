@@ -1,5 +1,8 @@
-export default function Home() {
+import './team.css'
+
+export default function Team() {
   return (
-    <h1>Team Page</h1>
+    <div className="team-title">Team Page</div>
   );
 }
+  

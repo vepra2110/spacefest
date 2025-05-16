@@ -1,5 +1,7 @@
+import './guestlecture.css'
+
 export default function GuestLecture () {
     return(
-        <h1>Guest Lecture</h1>
+        <div className="guestlecture-title">Guest Lecture Page</div>
     );
-}
+} 

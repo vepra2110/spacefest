@@ -3,7 +3,6 @@
     min-height: 100vh;
 
     color: aliceblue;
-    font-family: "Montserrat", sans-serif;
 
     display: flex;
     flex-direction: column;
@@ -12,8 +11,8 @@
 }
 
 .gallery-page-title {
-    font-size: 75px;
-    margin: 60px 0 80px;
+    font-size: 100px;
+    margin: 60px 0 200px;
 }
 
 .gallery {
@@ -23,7 +22,7 @@
     grid-template-columns: repeat(3, 1fr);
     grid-template-rows: repeat(2, 300px);
 
-    gap: 5px;
+    gap: 15px;
 }
 
 .r1 {

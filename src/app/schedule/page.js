@@ -1,5 +1,7 @@
-export default function Home() {
+import './schedule.css'
+
+export default function Schedule() {
   return (
-    <h1>Schedule Page</h1>
-  );
+    <div className="schedule-title">Schedule Page</div>
+  ); 
 }
