@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Audiowide&display=swap');
+
+.home-container {
+    min-width: 100%;
+    /* min-height: calc(100vh - 50px); */
+    min-height: 100vh;
+
+    color: aliceblue;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
